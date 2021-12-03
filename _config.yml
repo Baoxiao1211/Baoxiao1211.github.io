@@ -1,6 +1,6 @@
 # Site settings
 title: Peace and Flourish
-description: "Yet Another Minimal Theme"
+description: "a relentless development of a PhD candidate"
 url:  "https://Baoxiao1211.github.io" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
